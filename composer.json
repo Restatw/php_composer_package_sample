@@ -1,0 +1,8 @@
+{
+    "name": "gamebackend/contact",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
