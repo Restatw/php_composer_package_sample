@@ -28,3 +28,8 @@ composer init
     # ...
     ];
 ```
+# 在主專案輸入
+
+```sh or cmd
+composer dumpautoload
+```
