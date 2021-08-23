@@ -1,3 +1,11 @@
+## 建立 Packages 專案
+
+
+
+```sh
+composer init
+```
+
 ```json
 ## add to main composer.json
     "autoload-dev": {
